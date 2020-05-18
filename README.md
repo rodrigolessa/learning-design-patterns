@@ -2,7 +2,8 @@
 A Practical guide
 
 ## Table of Content
- - Design Patterns
+ - Introdução
+ - Design Patterns (Padrões GoF)
  * Padrões de criação
  * Padrões estruturais
  * Padrões comportamentais
@@ -11,7 +12,21 @@ A Practical guide
  * Creating App Project with Ionic CLI
  - Referências
 
-## Design Patterns
+## Introdução
+
+O paradigma de programação orientada a objetos estabelece princípios fundamentais referentes à organização de um software. Princípios que podem diminuir consideravelmente o custo de desenvolver e principalmente de manter sistemas. A orientação a objetos é o modelo de programação mais utilizado na modelagem de sistemas corporativos.
+
+Principais características de programação orientada a objetos:
+
+* Modularidade
+* Encapsulamento
+* Polimorﬁsmo
+
+Caso de uso: Como montar uma cidade com Design Patterns.
+
+## Design Patterns (Padrões GoF)
+
+Os 23 padrões do Gang of Four (GoF) são considerados os mais importantes e os pilares fundamentais para todos os outros padrões.
 
 ### Padrões de criação
 
@@ -131,5 +146,4 @@ Visitor
 
 ## Referências
 
-- https://pt.wikipedia.org/wiki/Padr%C3%A3o_de_projeto_de_software
-The 23 Gang of Four (GoF) patterns are generally considered the foundation for all other patterns
+- Livro Design Patterns: Elements of Reusable Object-Oriented Software (editora Addison-Wesley, 1995) dos autores Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides.

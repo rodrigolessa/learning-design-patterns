@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lng.CreationalPatterns", "Lng.CreationalPatterns\Lng.CreationalPatterns.csproj", "{B86BD97B-7F21-45BD-B146-9C7306CFABB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lng.OOPConcepts", "Lng.OOPConcepts\Lng.OOPConcepts.csproj", "{4932D996-D98F-410F-B845-D0AFD6B8C670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lng.ControlFlowPatterns", "Lng.ControlFlowPatterns\Lng.ControlFlowPatterns.csproj", "{AF5331FA-6313-435F-9D77-4766D3635E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lng.BehavioralPatterns", "Lng.BehavioralPatterns\Lng.BehavioralPatterns.csproj", "{B912E030-9DBD-4636-B69F-7BFE2BE62F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lng.StructuralPatterns", "Lng.StructuralPatterns\Lng.StructuralPatterns.csproj", "{3C0303EB-A1B5-47B7-B92D-176EC96FDC98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GoF Patterns", "GoF Patterns", "{20A718C1-3637-4564-BC6D-AC98416E01BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Patterns", "Anti-Patterns", "{E16704BA-E25C-4661-98E3-399C7768686F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coding Patterns", "Coding Patterns", "{E7A2BAD0-F744-481B-ABCB-1707903617B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86BD97B-7F21-45BD-B146-9C7306CFABB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86BD97B-7F21-45BD-B146-9C7306CFABB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86BD97B-7F21-45BD-B146-9C7306CFABB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86BD97B-7F21-45BD-B146-9C7306CFABB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4932D996-D98F-410F-B845-D0AFD6B8C670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4932D996-D98F-410F-B845-D0AFD6B8C670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4932D996-D98F-410F-B845-D0AFD6B8C670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4932D996-D98F-410F-B845-D0AFD6B8C670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5331FA-6313-435F-9D77-4766D3635E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5331FA-6313-435F-9D77-4766D3635E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5331FA-6313-435F-9D77-4766D3635E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5331FA-6313-435F-9D77-4766D3635E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B912E030-9DBD-4636-B69F-7BFE2BE62F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B912E030-9DBD-4636-B69F-7BFE2BE62F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B912E030-9DBD-4636-B69F-7BFE2BE62F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B912E030-9DBD-4636-B69F-7BFE2BE62F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0303EB-A1B5-47B7-B92D-176EC96FDC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0303EB-A1B5-47B7-B92D-176EC96FDC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0303EB-A1B5-47B7-B92D-176EC96FDC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0303EB-A1B5-47B7-B92D-176EC96FDC98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
